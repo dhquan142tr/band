@@ -159,7 +159,7 @@ html{
 #slider{
    margin-top: 46px;
    padding-top: 50%;/* Kích thước chiều cao của chính nó */
-   background: url('/assets/img/chicago.jpg') top center / cover fixed;
+   background: url('assets/img/chicago.jpg') top center / cover fixed;
    position: relative;
 }
 
